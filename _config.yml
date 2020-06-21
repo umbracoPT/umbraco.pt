@@ -1,8 +1,8 @@
 site: Umbraco
 
-url: https://umbraco.netlify.app
+url: https://umbraco.pt
 baseurl: ""
-baseurl_root: https://umbraco.netlify.app
+baseurl_root: https://umbraco.pt
 
 languages: ['pt', 'en', 'de', 'fr', 'ro']
 exclude_from_localizations: ["js", "css", "admin"]
