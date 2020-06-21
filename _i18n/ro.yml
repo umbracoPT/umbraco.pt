@@ -1,0 +1,51 @@
+global:
+  langs:
+    portuguese: Portugheză
+    english: Engleză
+    german: Germană
+    french: Franceză
+    romanian: Română
+  abbr:
+    pt: PT
+    en: EN
+    de: DE
+    fr: FR
+    ro: RO
+  site_title: UMBRACO | E&C
+  site_description: INGINERIE & CONSTRUCȚII
+  site_tagline: INGINERIE & CONSTRUCȚII
+menu:
+  home: Acasă
+  company: Compania
+  areas: Domenii de activitate
+  portfolio: Portofoliu
+  recruitment: Recrutare
+  contacts: Contacte
+  login: Autentificare
+title:
+  home: Acasă
+  company: Compania
+  areas: Domenii de activitate
+  portfolio: Portofoliu
+  recruitment: Recrutare
+  contacts: Contacte
+  login: Autentificare
+desc:
+  home: Acasă descriere
+  company: Compania descriere
+  areas: Domenii de activitate descriere
+  portfolio: Portofoliu descriere
+  recruitment: Recrutare descriere
+  contacts: Contacte descriere
+  login: Autentificare descriere
+recruitment_form:
+  title: Recrutare (titlul merge aici)
+  desc: Acest formular funcționează cu instrumente integrate Netlify (descrierea merge aici)
+  email: Adresa de e-mail
+  email_placeholder: Adresa ta de email...
+  name: Nume
+  name_placeholder: Numele tău...
+  message: Mesaj
+  message_placeholder: Mesajul tău...
+  cv: Tu CV
+  send: Trimite mesaj

@@ -1,0 +1,35 @@
+<header class="header">
+
+	<div class="header__content">
+
+		{% if site.data.settings.header_settings.logo_image %}
+		<a href="{{ site.baseurl }}/" class="header__logo">
+			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img">
+		</a>
+		{% else %}
+		<a href="{{ site.baseurl }}/" class="header__title">
+			{{ site.data.settings.basic_settings.site_title_h1 }} 
+		</a>
+		{% endif %}
+
+		<h1 class="header__tagline">{% t global.site_tagline %}</h1>
+
+		{% include switcher.html %}
+
+		{% include menu.html %}
+
+		<!-- there was projects-menu -->
+
+		<div class="header__lower">
+
+			{% include socials.html %}
+
+			<div class="footer__copyright">
+				<span>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_title }}</span>
+			</div>
+
+		</div>
+
+	</div>
+
+</header>

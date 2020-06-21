@@ -1,0 +1,21 @@
+<ul class="socials">
+	{% for url in site.data.settings.social_settings %}
+	{% if url[1] != '' %}
+	<li class="socials__item">
+		<a href="{{ url[1] }}" target="_blank" class="socials__item__link" title="{{ url[0] | remove: '_url' | replace: '-', ' ' | capitalize }}">
+			<i class="fab fa-{{ url[0] | replace: 'facebook', 'facebook-f' | remove: '_url' }}" aria-hidden="true"></i>
+		</a>
+	</li>
+	{% endif %}
+	{% endfor %}
+	<li class="socials__item">
+		<a href="mailto:info@umbraco.pt" target="_blank" class="socials__item__link" title="E-mail">
+			<i class="far fa-envelope" aria-hidden="true"></i>
+		</a>
+	</li>
+	<li class="socials__item">
+		<a href="https://www.google.pt/maps/place/UMBRACO+Engineering+%26+Construction/@41.1826775,-8.6822177,15z/data=!4m2!3m1!1s0x0:0xd6f1aeb4f7fb17f5?sa=X&ved=0ahUKEwj2vIqt9YvSAhXDVhoKHTXKD40Q_BIIcTAK" target="_blank" class="socials__item__link" title="Address">
+			<i class="fas fa-map-marker-alt" aria-hidden="true"></i>
+		</a>
+	</li>
+</ul>

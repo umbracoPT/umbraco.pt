@@ -1,0 +1,51 @@
+global:
+  langs:
+    portuguese: Português
+    english: Inglês
+    german: Alemão
+    french: Francês
+    romanian: Romeno
+  abbr:
+    pt: PT
+    en: EN
+    de: DE
+    fr: FR
+    ro: RO
+  site_title: UMBRACO | E&C
+  site_description: ENGENHARIA & CONSTRUCAO
+  site_tagline: ENGENHARIA & CONSTRUCAO
+menu:
+  home: Casa
+  company: Empresa
+  areas: Área de actividade
+  portfolio: Carteira
+  recruitment: Recrutamento
+  contacts: Contacto
+  login: Sessao
+title:
+  home: Casa
+  company: Empresa
+  areas: Área de actividade
+  portfolio: Carteira
+  recruitment: Recrutamento
+  contacts: Contacto
+  login: Sessao
+desc:
+  home: Casa descricao
+  company: Empresa descricao
+  areas: Área de actividade descricao
+  portfolio: Carteira descricao
+  recruitment: Recrutamento descricao
+  contacts: Contacto descricao
+  login: Sessao descricao
+recruitment_form:
+  title: Recrutamento (título vai para aqui)
+  desc: Este formulário funciona com ferramentas integradas de Netlify (a descrição vai para aqui)
+  email: Endereço de E-mail
+  email_placeholder: O seu endereço de E-mail...
+  name: Nome
+  name_placeholder: O seu nome...
+  message: Mensagem
+  message_placeholder: A sua mensagem...
+  cv: Seu currículo
+  send: Enviar Mensagem
