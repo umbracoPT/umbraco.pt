@@ -39,7 +39,7 @@
 .header__logo {
 	display: block;
 	width: $logo-width;
-	max-width: 80%;
+	max-width: 100%;
 
 	@include mq(tabletp) {
 		float: left;
