@@ -6,7 +6,7 @@ baseurl_root: https://umbraco.pt
 
 languages: ['pt', 'en', 'de', 'fr', 'ro']
 exclude_from_localizations: ["js", "css", "admin"]
-language_default: 'pt'
+language_default: 'en'
 
 
 
