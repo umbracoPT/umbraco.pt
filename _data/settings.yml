@@ -1,7 +1,7 @@
 basic_settings:
-  site_title: UMBRACO | E&C
+  site_title: UMBRACO EC
   site_title_h1: Umbraco
-  site_tagline: ENGENHARIA & CONSTRUCAO
+  site_tagline: ENGENEERING & CONSTRUCTION
   favicon_image: /images/favicon.png
 
 header_settings:
