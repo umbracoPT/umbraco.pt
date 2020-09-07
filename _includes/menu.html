@@ -2,27 +2,68 @@
 	<div class="menu__toggle js-menu-toggle">
 		<div class="menu__toggle__icon"><span></span></div>
 	</div>
+
 	<div class="menu__wrap">
 		<ul class="menu__list">
 			
 			{% if site.lang == "pt" %}
-				<li class="menu__list__item"><a href="{{ site.url }}/index" class="menu__list__item__link">{% t menu.home %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/company" class="menu__list__item__link">{% t menu.company %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/areas" class="menu__list__item__link">{% t menu.areas %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/portfolio" class="menu__list__item__link">{% t menu.portfolio %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/recruitment" class="menu__list__item__link">{% t menu.recruitment %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/contacts" class="menu__list__item__link">{% t menu.contacts %}</a></li>
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/index" class="menu__list__item__link">{% t menu.home %}</a></li>
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/company" class="menu__list__item__link">{% t menu.company %}</a></li>
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/areas" class="menu__list__item__link">{% t menu.areas %}</a></li>
+
+				<!--
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/portfolio" class="menu__list__item__link">{% t menu.portfolio %}</a></li>
+				-->
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/recruitment" class="menu__list__item__link">{% t menu.recruitment %}</a></li>
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/legal" class="menu__list__item__link">{% t menu.legal %}</a></li>
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/contacts" class="menu__list__item__link">{% t menu.contacts %}</a></li>
+
+			
+
 			{% else %}
-				<li class="menu__list__item"><a href="{{ site.url }}/{{ site.lang }}/index" class="menu__list__item__link">{% t menu.home %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/{{ site.lang }}/company" class="menu__list__item__link">{% t menu.company %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/{{ site.lang }}/areas" class="menu__list__item__link">{% t menu.areas %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/{{ site.lang }}/portfolio" class="menu__list__item__link">{% t menu.portfolio %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/{{ site.lang }}/recruitment" class="menu__list__item__link">{% t menu.recruitment %}</a></li>
-				<li class="menu__list__item"><a href="{{ site.url }}/{{ site.lang }}/contacts" class="menu__list__item__link">{% t menu.contacts %}</a></li>
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/{{ site.lang }}/index" class="menu__list__item__link">{% t menu.home %}</a></li>
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/{{ site.lang }}/company" class="menu__list__item__link">{% t menu.company %}</a></li>
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/{{ site.lang }}/areas" class="menu__list__item__link">{% t menu.areas %}</a></li>
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/{{ site.lang }}/portfolio" class="menu__list__item__link">{% t menu.portfolio %}</a></li>
+
+				<!--
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/{{ site.lang }}/recruitment" class="menu__list__item__link">{% t menu.recruitment %}</a></li>
+				-->
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/{{ site.lang }}/legal" class="menu__list__item__link">{% t menu.legal %}</a></li>
+
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/{{ site.lang }}/contacts" class="menu__list__item__link">{% t menu.contacts %}</a></li>
+
 			{% endif %}
-				
-				<li class="menu__list__item"><a href="{{ site.url }}/admin" class="menu__list__item__link">{% t menu.login %}</a></li>
+
+				<!--
+				<li class="menu__list__item">
+					<a href="{{ site.url }}/admin" class="menu__list__item__link">{% t menu.login %}</a></li>
+				-->
 			
 		</ul>
+
 	</div>
 </div>

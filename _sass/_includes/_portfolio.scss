@@ -38,6 +38,7 @@
 
 .portfolio-item__image {
 	width: 100%;
+	opacity: 0.75;
 }
 
 .portfolio-item__content {
@@ -53,7 +54,7 @@
 
 	opacity: 0;
 	visibility: hidden;
-	@include transition(all 0.2s ease-in-out);
+	@include transition(all 0.4s ease-in-out);
 }
 
 .portfolio-item__info {

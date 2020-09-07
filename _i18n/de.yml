@@ -12,8 +12,8 @@ global:
     fr: FR
     ro: RO
   site_title: UMBRACO | E&C
-  site_description: ENGINEERING & KONSTRUKTION
-  site_tagline: ENGINEERING & KONSTRUKTION
+  site_description: BAULEISTUNGEN
+  site_tagline: BAULEISTUNGEN
 menu:
   home: Startseite
   company: Unternehmen
@@ -21,6 +21,7 @@ menu:
   portfolio: Portfolio
   recruitment: Rekrutierung
   contacts: Kontakt
+  legal: Legal
   login: Login
 title:
   home: Startseite
@@ -29,6 +30,7 @@ title:
   portfolio: Portfolio
   recruitment: Rekrutierung
   contacts: Kontakt
+  legal: Legal
   login: Login
 desc:
   home: Startseite beschreibung
@@ -37,6 +39,7 @@ desc:
   portfolio: Portfolio beschreibung
   recruitment: Rekrutierung beschreibung
   contacts: Kontakt beschreibung
+  legal: Legal beschreibung
   login: Login beschreibung
 recruitment_form:
   title: Recruitment (Titel geht hier)

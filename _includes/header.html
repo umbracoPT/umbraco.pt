@@ -1,7 +1,6 @@
 <header class="header">
-
 	<div class="header__content">
-
+		<!-- Logo -->
 		{% if site.data.settings.header_settings.logo_image %}
 		<a href="{{ site.baseurl }}/" class="header__logo">
 			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img">
@@ -12,16 +11,20 @@
 		</a>
 		{% endif %}
 
+		<!-- Tagline -->
 		<h1 class="header__tagline">{% t global.site_tagline %}</h1>
 
+		<!-- Language Switcher -->
 		{% include switcher.html %}
+		<br>
 
+		<!-- Menu -->
 		{% include menu.html %}
 
 		<!-- there was projects-menu -->
 
+		<!-- Footer -->
 		<div class="header__lower">
-
 			{% include socials.html %}
 
 			<div class="footer__copyright">

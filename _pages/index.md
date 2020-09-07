@@ -1,7 +1,21 @@
 ---
-title: Welcome
 layout: nointro
-description: Umbraco Engineering & Construction | Engenharia & Construção | Construção chave na mão
+title: Our projects
+published: True
 ---
 
-{% translate_file _pages/index.md %}
+<!-- IMAGE GALLERY -->
+<!--
+<div class="gallery" data-columns="1">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
+-->
+
+<!-- IMAGE -->
+![](/images/index_1.jpg)
+
+
+
+<!-- FORWARD TO TRANSLATION PAGE -->
+{% translate_file _pages/index.md %} 

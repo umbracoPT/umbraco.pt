@@ -21,6 +21,7 @@ menu:
   portfolio: Portfolio
   recruitment: Recruitment
   contacts: Contacts
+  legal: Terms & Conditions
   login: Login
 title:
   home: Home
@@ -29,6 +30,7 @@ title:
   portfolio: Portfolio
   recruitment: Recruitment
   contacts: Contacts
+  legal: Terms & Conditions
   login: Login
 desc:
   home: Home description
@@ -37,15 +39,16 @@ desc:
   portfolio: Portfolio description
   recruitment: Recruitment description
   contacts: Contacts description
+  legal: TC Description
   login: Login description
 recruitment_form:
-  title: Recruitment (title goes here)
-  desc: This form works with integrated Netlify tools (description goes here)
+  title: Recruitment
+  desc: Join our team today, submit your contact details and cv
   email: Email Address
   email_placeholder: Your email address...
   name: Name
   name_placeholder: Your name...
   message: Message
   message_placeholder: Your message...
-  cv: You CV
+  cv: Your CV
   send: Send Message

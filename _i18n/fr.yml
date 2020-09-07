@@ -12,8 +12,8 @@ global:
     fr: FR
     ro: RO
   site_title: UMBRACO | E&C
-  site_description: INGÉNIERIE ET CONSTRUCTION
-  site_tagline: INGÉNIERIE ET CONSTRUCTION
+  site_description: SERVICES DE CONSTRUCTION
+  site_tagline: SERVICES DE CONSTRUCTION
 menu:
   home: Maison
   company: Entreprise
@@ -21,6 +21,7 @@ menu:
   portfolio: Portefeuille
   recruitment: Recrutement
   contacts: Contacter
+  legal: Legal
   login: Connexion
 title:
   home: Maison
@@ -29,6 +30,7 @@ title:
   portfolio: Portefeuille
   recruitment: Recrutement
   contacts: Contacter
+  legal: Legal
   login: Connexion
 desc:
   home: Maison description
@@ -37,10 +39,11 @@ desc:
   portfolio: Portefeuille description
   recruitment: Recrutement description
   contacts: Contacter description
+  legal: Legal description
   login: Connexion description
 recruitment_form:
-  title: Recrutement (titre va ici)
-  desc: Ce formulaire fonctionne avec les outils Netlify intégrés (la description va ici)
+  title: Recrutement
+  desc: Rejoignez notre équipe aujourd'hui en vous envoyant vos coordonnées et votre profil d'expérience.
   email: E-mail adresse
   email_placeholder: Votre adresse e-mail...
   name: Nom

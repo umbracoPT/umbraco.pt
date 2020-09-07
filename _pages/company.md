@@ -1,6 +1,6 @@
 ---
-title: About company
 layout: nointro
+title: About company
 description: Umbraco Engineering & Construction | Engenharia & Construção | Construção chave na mão
 ---
 

@@ -1,12 +1,4 @@
-// - - - - - - - - - - - - - - - - - -
-
-// Basics
-
-// - - - - - - - - - - - - - - - - - -
-
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
-
+// BASICS ----------------------------------------------------------------------
 @import url(https://fonts.googleapis.com/css?family=Audiowide:400);
 
 html, body {
@@ -23,9 +15,7 @@ body {
 }
 
 
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
-
+// TYPOGRAPHY ------------------------------------------------------------------
 h1, h2, h3, h4, h5, h6 {
 	font-family: $title-font;
 	color: $text-dark-color;
@@ -290,9 +280,7 @@ hr {
 ::-moz-selection { background: $accent-color; color: $background-color; }
 
 
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page loading
-
+// PAGE LOADING ----------------------------------------------------------------
 .page-loader {
 	display: none;
 }
@@ -357,9 +345,7 @@ body.loading {
 }
 
 
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
-
+// PAGE SECTIONS ---------------------------------------------------------------
 section {
 	margin-top: 40px;
 
@@ -395,9 +381,7 @@ section {
 }
 
 
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Buy CTA
-
+// BUY CTA ---------------------------------------------------------------------
 .buy-cta {
 	position: fixed;
 	bottom: 0;
@@ -464,8 +448,7 @@ section {
 }
 
 
-// Custom styles
-
+// CUSTOM STYLES ---------------------------------------------------------------
 .contact-form__file {
 	margin-top: 20px; 
 	margin-bottom: 35px; 
@@ -476,11 +459,11 @@ iframe {
 }
 
 .language_switcher {
-	margin-top: 1rem;
+	margin-top: 1.8rem;
 	width: 100%;
 	list-style: none;
 	display: flex;
-
+	font-size: 8px;
 		@include mq(phonel) {
 			margin-top: .8rem;
 		}
@@ -494,18 +477,9 @@ iframe {
 			margin-top: 1.3rem;
 		}
 		@include mq(desktop) {
-			margin-top: 1.8rem;
+			margin-top: 1 .8rem;
 		}
 	}
-
-.flag {
-	box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.1);
-	transition: all 0.2s
-}
-.flag:hover {
-	transform: scale(1.2);
-	transition: all 0.2s
-}
 
 .language_switcher li {
 	margin: 0 0.5rem;
@@ -513,6 +487,10 @@ iframe {
 
 .language_switcher li:first-child {
 	margin-left: 0;
+}
+
+.language_switcher a, li {
+	color: #6C7A89;
 }
 
 .mb {

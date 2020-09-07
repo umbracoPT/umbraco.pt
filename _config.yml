@@ -4,12 +4,9 @@ url: https://umbraco.pt
 baseurl: ""
 baseurl_root: https://umbraco.pt
 
-languages: ['pt', 'en', 'de', 'fr', 'ro']
+language_default: 'pt'
+languages: ['pt', 'en', 'fr', 'de', 'ro']
 exclude_from_localizations: ["js", "css", "admin"]
-language_default: 'en'
-
-
-
 
 collections:
   pages:
