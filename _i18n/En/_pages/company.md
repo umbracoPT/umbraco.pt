@@ -1,9 +1,11 @@
+<!--
 <div class="wrap mb">
 
   <h1>{% t title.company %}</h1>
   <p>{% t desc.company %}</p>
 
 </div>
+-->
 
 ## ÜBER UNS
 
