@@ -7,6 +7,15 @@
 </div>
 -->
 
-## WAS WIR TUN
+## DIENSTLEISTUNGEN
 
-Unser team verfügt über das know-how und das know-how, um es zu erledigen, mit einer breiten Palette von Dienstleistungen, die für jeden Baubedarf und jede Anforderung. Lassen Sie uns wissen, wie wir helfen können, und wir versichern, dass Ihre Erfahrung mit unseren Profis angenehm und zufriedenstellend ist. Wir lieben es, von unseren Kunden zu hören, so fühlen Sie sich frei, uns mit Ihrem feedback.
+Mit einer breiten Aufstellung von Dienstleistungen , die den Anforderungen des Baumarktes Hoch-  und Tiefbau entsprechen , sind wir mit mehreren Teams strukturiert . Wir verfügen über das Know-how und die Erfahrungen , um dies erfolgreich durchzuführen.
+
+#### Hochbau:
+* Stahlbetonbau
+* Mauerwerk
+
+ #### Infrastrukturen:
+* Tief-und Strassenbau
+* Rohr-und Kabelverlegung insbesondere Telekommunikation und elektrizität
+* Pflasterarbeiten aller Art
