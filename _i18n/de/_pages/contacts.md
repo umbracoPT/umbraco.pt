@@ -20,10 +20,6 @@ Major Monteiro Leite - Edificio Palhinhas<br/>
 +351 913 569 310 | cinfaes@umbraco.pt
 
 
-### [Bordeaux](https://www.google.com/maps/dir/Avenue+Neil+Armstrong,+33700+M%C3%A9rignac,+France)
-**Addresse:** <br/>
-15 Avenue Neil Armstrong <br/>
-33700 Merignac | Bordeaux - Franţa <br/>
-
+### [Deutschland](https://www.google.com/maps/dir/Avenue+Neil+Armstrong,+33700+M%C3%A9rignac,+France)
 **Kontakt:** <br/>
-+33 977 197 127 | bordeaux@umbraco.pt
++351 224 837 163 | manuela.silva@umbraco.pt
