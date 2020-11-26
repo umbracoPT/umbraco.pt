@@ -39,13 +39,13 @@ desc:
   contacts: Contacte descriere
   login: Autentificare descriere
 recruitment_form:
-  title: Recrutare (titlul merge aici)
-  desc: Acest formular funcționează cu instrumente integrate Netlify (descrierea merge aici)
+  title: Recrutare
+  desc: Alăturați-vă echipei noastre astăzi, trimiteți-vă datele de contact și CV-ul
   email: Adresa de e-mail
   email_placeholder: Adresa ta de email...
   name: Nume
   name_placeholder: Numele tău...
   message: Mesaj
   message_placeholder: Mesajul tău...
-  cv: Tu CV
+  cv: CV-ul tău
   send: Trimite mesaj
