@@ -1,7 +1,7 @@
 ---
 layout: nointro
-title: Our projects
-published: True
+title: 
+published: False
 ---
 
 <!-- IMAGE GALLERY -->
