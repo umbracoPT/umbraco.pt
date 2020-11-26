@@ -6,3 +6,8 @@
 
 </div>
 -->
+
+
+>"Die Zukunft hängt davon ab, was Du heute tust." [^1]
+
+[^1]: Mahatma Gandhi
