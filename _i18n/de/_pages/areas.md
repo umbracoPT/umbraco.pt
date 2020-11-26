@@ -15,7 +15,7 @@ Mit einer breiten Aufstellung von Dienstleistungen , die den Anforderungen des B
 * Stahlbetonbau
 * Mauerwerk
 
- #### Infrastrukturen:
+#### Infrastrukturen:
 * Tief-und Strassenbau
 * Rohr-und Kabelverlegung insbesondere Telekommunikation und elektrizität
 * Pflasterarbeiten aller Art
