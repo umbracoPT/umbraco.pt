@@ -21,6 +21,7 @@ menu:
   portfolio: Portofoliu
   recruitment: Recrutare
   contacts: Contacte
+  legal: Termeni si Conditii
   login: Autentificare
 title:
   home: Acasă
@@ -29,6 +30,7 @@ title:
   portfolio: Portofoliu
   recruitment: Recrutare
   contacts: Contacte
+  legal: Termeni si Conditii
   login: Autentificare
 desc:
   home: Acasă descriere
