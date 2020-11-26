@@ -42,8 +42,8 @@ desc:
   legal: Legal
   login: Login
 recruitment_form:
-  title: Recruitment (Titel geht hier)
-  desc: Dieses Formular funktioniert mit integrierten Netlify tools (Beschreibung geht hier)
+  title: Recruitment
+  desc: Treten Sie unserem Team noch heute bei, senden Sie Ihre Kontaktdaten und Ihren Lebenslauf
   email: E-Mail-Adresse
   email_placeholder: Ihre E-Mail-Adresse...
   name: Name
