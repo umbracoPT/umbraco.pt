@@ -1,7 +1,7 @@
 ---
 layout: nointro
 title: 
-published: False
+published: True
 ---
 
 <!-- IMAGE GALLERY -->
