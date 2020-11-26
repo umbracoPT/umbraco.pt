@@ -33,14 +33,14 @@ title:
   legal: Legal
   login: Login
 desc:
-  home: Startseite beschreibung
-  company: Unternehmen beschreibung
-  areas: Tätigkeitsbereich beschreibung
-  portfolio: Portfolio beschreibung
-  recruitment: Rekrutierung beschreibung
-  contacts: Kontakt beschreibung
-  legal: Legal beschreibung
-  login: Login beschreibung
+  home: Startseite
+  company: Unternehmen
+  areas: Tätigkeitsbereich
+  portfolio: Portfolio
+  recruitment: Rekrutierung
+  contacts: Kontakt
+  legal: Legal
+  login: Login
 recruitment_form:
   title: Recruitment (Titel geht hier)
   desc: Dieses Formular funktioniert mit integrierten Netlify tools (Beschreibung geht hier)
