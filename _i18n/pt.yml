@@ -33,14 +33,14 @@ title:
   contacts: Contactos
   login: Login
 desc:
-  home: Casa descricao
-  company: Empresa descricao
-  areas: Área de actividade descricao
-  portfolio: Carteira descricao
-  recruitment: Recrutamento descricao
-  legal: Termos e Condicoes Descricao
-  contacts: Contacto descricao
-  login: Sessao descricao
+  home: Inicio
+  company: Empresa
+  areas: Área de actividade
+  portfolio: Carteira
+  recruitment: Recrutamento
+  legal: Termos e Condicoes
+  contacts: Contacto
+  login: Sessao
 recruitment_form:
   title: Recrutamento
   desc: Junte-se a uma equipa profissional, candidatando-se a trabalhar conosco atraves do formulario abaixo, deixando indicacao dos seus contactos e perfil profissional.
