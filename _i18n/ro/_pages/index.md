@@ -1,4 +1,4 @@
-<---
+<!--
 <div class="wrap mb">
 
   <h1>{% t title.home %}</h1>
