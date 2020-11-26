@@ -5,7 +5,7 @@
   <p>{% t desc.home %}</p>
 
 </div>
---->
+-->
 
 >"Viitorul depinde de ceea ce faci azi." [^1]
 
